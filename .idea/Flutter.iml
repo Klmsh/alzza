@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_custom_dialog/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/flutter_share/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/webview_flutter_wkwebview/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/alzza/ios/.symlinks/plugins/google_maps_flutter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
